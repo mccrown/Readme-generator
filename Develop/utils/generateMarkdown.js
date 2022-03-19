@@ -23,6 +23,26 @@ function generateMarkdown(data) {
   * [Credits](#credits)
   * [License](#license)
 
+  ## Installation
+  ${data.installed}
+
+  ## Usage
+  ${data.usage}
+
+  ## Credits
+  ${data.credits}
+
+  ## License 
+
+  ## Badges
+
+  ## Tests
+  ${data.test}
+
+  ## Questions
+  * ${data.github}
+  * ${data.email}
+
 
 
 `;
