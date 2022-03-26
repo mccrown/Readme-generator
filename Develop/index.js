@@ -50,9 +50,18 @@ const questions = () => {
     name: 'credits',
 },
 {
-    message: 'Enter a license.',
-    type: 'input',
+    message: 'Select a license.',
+    type: 'list',
     name: 'license',
+    choices: [
+        "Apache",
+        "Academic",
+        "GNU",
+        "ISC",
+        "MIT",
+        "Mozilla",
+        "Open"
+    ]
 },
 {
     message: 'Test of the project.',
