@@ -34,9 +34,11 @@ function generateMarkdown(data) {
   ## Badges
 
   ## Tests
+  You can see a test video of this application at the link below.
   ${data.test}
 
   ## Questions
+  Email me or reach out on GitHub
   * ${data.github}
   * ${data.email}
 
