@@ -1,9 +1,9 @@
-# Professional README.md Generator
+# README Generator
 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description 
-  By running this application you can create a professional README file using user input.
+  A node.js application that creates a generated README.md file for your next project, using user input.
 
   ## Table of Contents
 
@@ -13,9 +13,10 @@
   * [License](#license)
 
   ## Installation
-  npm init and npm install inquirer
+  npm install inquirer
 
   ## Usage
+  Run the following command at th root of your project and answer the prompted questions:
   node index.js
 
   ## Credits
@@ -29,9 +30,11 @@
   ## Badges
 
   ## Tests
-  (link here)
+  You can see a test video of this application at the link below.
+  tbd
 
   ## Questions
-  * no@no.com
-  * no@no.com
+  Email me or reach out on GitHub
+  * https://github.com/mccrown
+  * connersmccown@gmail.com
 
