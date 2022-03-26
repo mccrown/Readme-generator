@@ -1,6 +1,9 @@
-# test
+# Professional README.md Generator
+
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+
   ## Description 
-  test
+  By running this application you can create a professional README file using user input.
 
   ## Table of Contents
 
@@ -10,22 +13,25 @@
   * [License](#license)
 
   ## Installation
-  test
+  npm init and npm install inquirer
 
   ## Usage
-  test
+  node index.js
 
   ## Credits
-  test
+  Conner McCown
 
-  ## License 
+  ## License
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  <br />
+  This application is covered by the MIT license.  
 
   ## Badges
 
   ## Tests
-  test
+  (link here)
 
   ## Questions
-  * tes
-  * test
+  * no@no.com
+  * no@no.com
 
